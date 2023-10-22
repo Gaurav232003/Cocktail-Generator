@@ -51,7 +51,7 @@ class Login extends StatelessWidget {
                 padding:
                     EdgeInsets.only(left: width * 0.127, right: width * 0.076),
                 child: Text(
-                  'One-Stop Solution for all your hiring requirements!!',
+                  'One-Stop Solution for all your Cocktail requirements!!',
                   style: TextStyle(
                       fontSize: height * 0.0319, fontWeight: FontWeight.w400),
                 ),
